@@ -3,7 +3,7 @@
 <br />
 <div align="center">
   <h1>✨ Transparent Login Form</h1>
-  <p>A stylish and modern transparent login form built with HTML, CSS, and JavaScript.</p>
+  <p>A stylish and modern transparent login form built with HTML, CSS.</p>
   <img src="Transparent%20Login%20Form/screenshot.png" alt="Transparent Login Form Screenshot" width="100%"/>
 </div>
 
